@@ -157,3 +157,4 @@ class Bootstrap_Nav_Walker extends Walker_Nav_Menu {
 // Cargar funcionalidades del Personalizador
 require_once get_template_directory() . '/inc/customizer.php';
 require_once get_template_directory() . '/inc/customizer-dynamic-css.php';
+require_once get_template_directory() . '/inc/customizer-section-manager.php'; // Gestor de secciones

@@ -1,4 +1,4 @@
-<section id="aserrin" class="py-5">
+<section id="section-aserrin" class="py-5 home-section">
     <div class="container-fluid">
         <h2>Aserrín</h2>
         <hr>

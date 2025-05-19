@@ -164,4 +164,9 @@
 
     // Aquí añadiremos más bindings para futuras opciones del personalizador
 
+    // Nota: La previsualización para el orden y visibilidad de las secciones de la página de inicio
+    // (boots2025_home_sections_order, boots2025_home_sections_visibility)
+    // se maneja mediante transport='refresh' en sus respectivos settings del Personalizador.
+    // Por lo tanto, no se requiere lógica de postMessage aquí para esas funcionalidades.
+
 })( jQuery );

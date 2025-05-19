@@ -1,0 +1,45 @@
+/**
+ * Boots2025 Customizer Section Manager Control CSS
+ *
+ * @package Boots2025
+ */
+
+/* Aquí irán los estilos para el control del gestor de secciones */
+.customize-control-boots2025_section_manager .section-manager-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.customize-control-boots2025_section_manager .section-manager-list li {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 10px 15px;
+    margin-bottom: 5px;
+    cursor: move;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.customize-control-boots2025_section_manager .section-manager-list li .dashicons-sort {
+    margin-right: 10px;
+    color: #555d66;
+}
+
+.customize-control-boots2025_section_manager .section-manager-list li .section-name {
+    flex-grow: 1;
+}
+
+.customize-control-boots2025_section_manager .section-manager-list li .visibility-toggle {
+    cursor: pointer;
+    color: #555d66;
+}
+
+.customize-control-boots2025_section_manager .section-manager-list li .visibility-toggle.dashicons-hidden {
+    color: #a0a5aa;
+}
+
+.customize-control-boots2025_section_manager .section-manager-list li .visibility-toggle input[type="checkbox"] {
+    display: none; /* Ocultar el checkbox real */
+}

@@ -1,4 +1,4 @@
-<section id="maderas" class="py-5">
+<section id="section-maderas" class="py-5 home-section">
     <div class="container-fluid">
         <h2>Troncos y Maderas</h2>
         <hr>

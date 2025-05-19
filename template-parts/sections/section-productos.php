@@ -1,4 +1,4 @@
-<section id="productos" class="py-5">
+<section id="section-productos" class="py-5 home-section">
     <div class="container-fluid">
         <div class="row">
             <div class="col-12 text-center">

@@ -1,4 +1,4 @@
-<section id="contacto" class="py-5">
+<section id="section-contacto" class="py-5 home-section">
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-6" id="contact-details-column">
